@@ -1,0 +1,61 @@
+/*
+   CIT 205 Web Development Tools
+   Charlyn Woodruff
+   Oct. 6, 2023 */
+html {
+  background-image: url("images/dots.jpg");
+  background-size: 400px;
+  background-repeat: repeat;
+}
+html body {
+  background-color: rgb(43, 119, 207);
+}
+html main, html .bar {
+  background-image: url("images/swirl.jpg");
+  background-size: 400px;
+  background-repeat: repeat;
+}
+html div {
+  background-color: rgb(2, 2, 2);
+}
+html #website {
+  font-family: "Tangerine", Arial, Helvetica, sans-serif;
+  font-size: 5.5em;
+}
+html #l {
+  border-top: rgb(43, 119, 207) solid 6px;
+  color: white;
+}
+html #m {
+  background-color: rgb(180, 18, 1);
+  color: white;
+  border-top: white solid 6px;
+}
+html .message {
+  font-family: "Tangerine", Arial, Helvetica, sans-serif;
+  font-size: 5.5em;
+}
+html #n {
+  background-color: rgb(2, 2, 2);
+  border: white solid 6px;
+}
+html h1, html h2, html h4, html h6, html p {
+  text-indent: 10px;
+}
+html ul li, html li {
+  padding-right: 15px;
+  list-style-type: none;
+}
+html li a, html li a:visited {
+  font-size: 1.3em;
+  color: white;
+}
+html #table {
+  width: 100%;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+html footer {
+  background-color: rgb(2, 2, 2);
+}/*# sourceMappingURL=style.css.map */
